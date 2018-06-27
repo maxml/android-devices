@@ -23,6 +23,8 @@ Credits (based on):
  
  * [Blundell's list of devices](http://blog.blundell-apps.com/list-of-android-devices-with-pixel-density-buckets/)
  * [Wikipedia List of Android devices](http://en.wikipedia.org/wiki/List_of_displays_by_pixel_density)
+ * https://www.amazon.com/s/ref=nb_sb_noss_2/140-7302758-2462514?url=search-alias%3Dmobile&field-keywords=oneplus+6+&sprefix=oneplu%2Cmobile%2C235&crid=3SGL5DMQKLOB6
+ * https://github.com/meetup/android-device-names/blob/master/android_models.properties
 
 Searching BUILD.Model csv
 -------------------------
