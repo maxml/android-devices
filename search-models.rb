@@ -1,5 +1,7 @@
 #!/usr/bin/ruby
 
+require 'roo'
+
 puts "Start fetching android models"
 
 if __FILE__ == $0
@@ -8,12 +10,12 @@ if __FILE__ == $0
 	ARGV.each do |a|
 		puts "Matching #{a}"
     
-		file = File.open('Build.Model - models.csv').read
+		file = File.open('Build.MODEL.xlsx').read # don't work with xlsx files
 		file.gsub!(/\r\n?/, "\n")
 		file.each_line do |line|
 			spl = line.split(',')
 			if (spl.any?{ |s| s.downcase.include?((a.downcase)) }) 
-				answers << "#{spl[0]} - #{spl[1]} - #{spl[3]}"
+				answers << "#{spl[0]} - #{spl[1]} - #{spl[2]} - #{spl[3]}"
 			end
 		end
     end
