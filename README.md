@@ -6,7 +6,10 @@ Credits (based on):
  
  * This is a fork, please check base source
  * https://github.com/meetup/android-device-names/ For parsing I used this java [file](https://gist.github.com/maxml/7452b03e1fd30be56a6eed38eaf46d83)
- * Me, I got for Build.MODEL from [Amazon](https://www.amazon.com/s/ref=nb_sb_noss_2/140-7302758-2462514?url=search-alias%3Dmobile&field-keywords=oneplus+6+&sprefix=oneplu%2Cmobile%2C235&crid=3SGL5DMQKLOB6), in titles you can see a cypher, I think it's similar to real Build.MODEL. 
+ * Me, I got for Build.MODEL from 
+  	- [Amazon](https://www.amazon.com/s/ref=nb_sb_noss_2/140-7302758-2462514?url=search-alias%3Dmobile&field-keywords=oneplus+6+&sprefix=oneplu%2Cmobile%2C235&crid=3SGL5DMQKLOB6) 
+	- [Aliexpress](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20180705054125&isPremium=y&SearchText=android+Oppo+Find+X)
+In titles you can see a cypher, I think it's similar to real Build.MODEL. 
 
 Searching BUILD.Model csv
 -------------------------
